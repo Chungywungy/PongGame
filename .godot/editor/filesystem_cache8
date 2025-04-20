@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1742243779
+ball.gd::GDScript::-1::1740914602::0::1::::<>CharacterBody2D<>::
+cpu.gd::GDScript::-1::1740968104::0::1::::<>StaticBody2D<>::
+icon.svg::CompressedTexture2D::2180615364324795974::1740890762::1742243780::1::::<><>::
+main.gd::GDScript::-1::1740916236::0::1::::<>Sprite2D<>::
+main.tscn::PackedScene::1412670872590562072::1740968634::0::1::::<><>::uid://c281mmt3yp4kw::::res://pixil-frame-0.png<>res://main.gd<>res://player.gd<>res://cpu.gd<>res://ball.gd
+pixil-frame-0.png::CompressedTexture2D::6737665343772208918::1740891214::1742243780::1::::<><>::
+player.gd::GDScript::-1::1740968634::0::1::::<>StaticBody2D<>::
